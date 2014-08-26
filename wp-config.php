@@ -25,7 +25,7 @@ define('DB_USER', 'albert');
 define('DB_PASSWORD', 'cabbage');
 
 /** MySQL hostname */
-define('DB_HOST', 'halfgrain.com/tmsnyc');
+define('DB_HOST', 'halfgrain.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
