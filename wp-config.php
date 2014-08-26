@@ -16,16 +16,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'westside_wp');
+define('DB_NAME', 'tmsnyc');
 
 /** MySQL database username */
-define('DB_USER', 'westside_wp');
+define('DB_USER', 'albert');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'westsidenyc');
+define('DB_PASSWORD', 'cabbage');
 
 /** MySQL hostname */
-define('DB_HOST', 'westsidetmscenternyc.com');
+define('DB_HOST', 'halfgrain.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
