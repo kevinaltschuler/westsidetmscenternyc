@@ -39,7 +39,11 @@ define('DB_COLLATE', '');
  */
 define( 'UPLOADS', '/tmsnyc/wp-content/'.'files' );
 
+/**
+ * giving wordpress write permisions
+ */
 
+define('FS_METHOD', 'direct');
 
 /**#@+
  * Authentication Unique Keys and Salts.
