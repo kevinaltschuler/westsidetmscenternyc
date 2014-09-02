@@ -37,7 +37,7 @@ define('DB_COLLATE', '');
 /**
  * MEDIA PATH
  */
-define( 'UPLOADS', '/tmsnyc/wp-content/'.'files' );
+/*define( 'UPLOADS', '/tmsnyc/wp-content/'.'files' );
 
 /**
  * giving wordpress write permisions
