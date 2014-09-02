@@ -1,5 +1,10 @@
 <?php
 
+@ini_set( 'upload_max_size' , '64M' );
+@ini_set( 'post_max_size', '64M');
+@ini_set( 'max_execution_time', '300' );
+
+
 // Define the theme version
 if ( ! defined( 'SHOESTRAP_VERSION' ) ) {
 	define( 'SHOESTRAP_VERSION', '3.2.6' );
